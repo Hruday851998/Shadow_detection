@@ -1,5 +1,8 @@
 # Shadow_detection
 
+To work with the above code, you can download the data from below website and update the paths accordingly
+Dataset was downloaded from- https://www3.cs.stonybrook.edu/~cvl/projects/shadow_noisy_label/index.html
+
 Introduction:
 
 Shadow detection is one of the important problems in computer vision. Shadows are caused by the occlusion of light sources by objects in the scene and can significantly affect the appearance and quality of images. Accurate detection and removal of shadows can improve the performance of several computer vision applications. In this project, I have tried to address the problem of shadow detection in images using convolutional neural networks and apart from the CNN-based model, I have used another simple and effective approach, which is based on thresholding the luminance channel of the LAB color space and is described in the paper "Shadow Detection and Removal from a Single Image  Using LAB Color Space" by Saritha Murali and V. K. Govindan.
@@ -7,8 +10,6 @@ Shadow detection is one of the important problems in computer vision. Shadows ar
 Data:
 
 I have used the SBU Shadow dataset, which consists of 4085 images with varying lighting conditions and shadow types. The dataset includes images of indoor and outdoor scenes, with and without objects, and with various degrees of shadowing. The dataset consists of two main components: shadow images and shadow masks. The shadow images are RGB images that contain objects affected by shadows, while the shadow masks are binary masks or ground truth masks indicating the presence or absence of shadows in the corresponding images.
-
-Dataset was downloaded from- https://www3.cs.stonybrook.edu/~cvl/projects/shadow_noisy_label/index.html
 
 Approach:
 

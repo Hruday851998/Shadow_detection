@@ -84,4 +84,3 @@ Year = {2016}}
 Author = {Tomas F. Yago Vicente and Minh Hoai and Dimitris Samaras},
 Booktitle = {Proceedings of IEEE Conference on Computer Vision and Pattern Recognition},
 Title = {Noisy Label Recovery for Shadow Detection in Unfamiliar Domains},Year = {2016}}
-![image](https://github.com/Hruday851998/Shadow_detection/assets/98664425/cf17b98c-4d53-4515-8c9c-1382e209c82f)
